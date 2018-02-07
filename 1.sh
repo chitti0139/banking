@@ -1,0 +1,1 @@
+echo "chitti doing remote "
